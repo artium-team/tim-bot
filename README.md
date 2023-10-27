@@ -1,3 +1,5 @@
+# Tim Bot
+
 ## Inspiration
 Tim Bot is a large language model from Makersuite, inspired by the idea of creating a friendly and informative alien companion. Tim Bot is trained on a massive dataset of text and code, and is able to communicate and generate human-like text in response to a wide range of prompts and questions.
 
